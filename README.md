@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Ankit, a Java Full Stack Developer 👋🏼:
+# Hello World!, I'm Aryan, Full Stack Developer 👋🏼:
 🖥️ Currently learning and building full-stack applications<br>🎓 Fresher with a passion for coding and problem-solving<br>👨‍💻 Started coding in 2022 during my BCA degree<br>📜 Completed a Java Full Stack certification
 <p align="center">
     <b style="color: blue;  ">Visitor count</b>
