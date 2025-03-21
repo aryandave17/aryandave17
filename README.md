@@ -1,6 +1,14 @@
 
 # Hello World!, I'm Ankit, a Java Full Stack Developer 👋🏼:
 🖥️ Currently learning and building full-stack applications<br>🎓 Fresher with a passion for coding and problem-solving<br>👨‍💻 Started coding in 2022 during my BCA degree<br>📜 Completed a Java Full Stack certification
+<p align="center">
+    <b style="color: blue;  ">Visitor count</b>
+    <br>
+    <a style="" href="https://github.com/akashdeep023">
+        <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+    </a>
+</p>
+
 
 <h3 align="center">A passionate FullStack Developer and Open Source Enthusiast.</h3>
 <img  align="right" alt="Coding" width="70%" src="https://github.com/PayalKumari10/PayalKumari10/blob/main/banner.gif">
