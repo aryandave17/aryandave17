@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" />
+</p>
+
+<h3 align="center">⏳ Mission Launch in Progress... Stay Tuned!</h3>
+
+
+
 <h1 align="center">🚀 Aryan Dave</h1>
 <h3 align="center">Frontend Developer | WordPress Specialist | ReactJS Enthusiast | SEO Strategist</h3>
 
