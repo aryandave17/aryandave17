@@ -22,7 +22,7 @@
 - 🧩 Tech Stack: `ReactJS`, `TailwindCSS`, `WordPress`, `JavaScript`, `PHP`, `HTML5`, `CSS3`
 - ⚙️ CMS Wizard: `Elementor`, `WooCommerce`, `Custom Themes`, `Yoast SEO`
 - 🌐 SEO Tools: `Google Search Console`, `PageSpeed Insights`, `Schema Markup`
-- 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)
+- 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/aryan-dave) | [Portfolio](-)
 
 ---
 
@@ -50,9 +50,9 @@
 
 | Project Name | Tech Used | Description |
 |--------------|-----------|-------------|
-| [React Portfolio](https://github.com/aryandave/react-portfolio) | ReactJS, TailwindCSS | A personal portfolio showcasing projects and skills |
+ | [React Portfolio](https://github.com/aryandave/react-portfolio) | ReactJS, TailwindCSS | A personal portfolio showcasing projects and skills |
 | [Custom WordPress Theme](https://github.com/aryandave/wordpress-theme) | WordPress, PHP, CSS | Fully customizable WP theme for blog or business |
-| [SEO Landing Page](https://github.com/aryandave/seo-landing-page) | HTML, CSS, JS, SEO | Fast, mobile-optimized landing page with SEO best practices |
+| [SEO Landing Page](https://github.com/aryandave/seo-landing-page) | HTML, CSS, JS, SEO | Fast, mobile-optimized landing page with SEO best practices | 
 
 ---
 
