@@ -59,7 +59,7 @@
 ### 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" /></a>
+  <a href="https://linkedin.com/in/aryan-dave"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" /></a>
   &nbsp;
   <a href="https://twitter.com/your-handle"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" /></a>
   &nbsp;
